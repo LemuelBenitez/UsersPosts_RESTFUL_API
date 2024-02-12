@@ -14,6 +14,7 @@ No front end is needed, please demonstrate a functional backend service via json
                                * Spring HATEOAS
                                * Spring Actuator
                                * Spring HAL Explorer
+                               * Spring Validation
 
 3. Technology Used :
 
